@@ -1,4 +1,4 @@
-Hellow there welcome to my GitHub profile,
+Hello there welcome to my GitHub profile,
 You can go to any public repository I have created for everyone to view,
 You can take any code from here and use it yourself but please do read the repository's
 README.md
